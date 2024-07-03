@@ -1,3 +1,9 @@
+## ENP NETWORK LEGACY IS FUNCTIONALITY
+
+Moved to Version 1.2.2 and implemented the change to append X-Keap-API-Key to
+requests so we can use Service Access Keys as IS is deprecating Legacy API Keys
+first quarter of 2025.
+
 [![Build Status](https://travis-ci.org/nateleavitt/infusionsoft.svg?branch=master)](https://travis-ci.org/nateleavitt/infusionsoft)
 [![Coverage Status](https://coveralls.io/repos/nateleavitt/infusionsoft/badge.svg?branch=master&service=github)](https://coveralls.io/github/nateleavitt/infusionsoft?branch=master)
 
